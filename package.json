@@ -1,0 +1,24 @@
+{
+  "name": "mod11-zooKeeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GRech17/mod11-zooKeeper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GRech17/mod11-zooKeeper/issues"
+  },
+  "homepage": "https://github.com/GRech17/mod11-zooKeeper#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
